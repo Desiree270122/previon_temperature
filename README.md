@@ -1,8 +1,8 @@
-# Prédictions climatiques pour soutenir l'agriculture dans la région d'Hanoi 🌱
+# Prédictions climatiques pour soutenir l'agriculture dans la région d'Hanoi 
 
 ---
 
-## 🚀 Résumé du projet
+##  Résumé du projet
 
 Ce projet met en œuvre un modèle de deep learning basé sur des réseaux de neurones **LSTM** (Long Short-Term Memory), spécialement adaptés aux séries temporelles, pour analyser et prédire des variables climatiques importantes telles que la température. L'objectif est d'aider les agriculteurs et les décideurs à mieux planifier leurs activités agricoles face aux variations climatiques.
 
@@ -12,7 +12,7 @@ Ce projet met en œuvre un modèle de deep learning basé sur des réseaux de ne
 
 ---
 
-## 📊 Résultats principaux
+##  Résultats principaux
 
 ### Courbes de performance du modèle
 
@@ -38,7 +38,7 @@ Un graphique montrant la **relation linéaire** entre les valeurs réelles et le
 
 ---
 
-## 🎯 Objectifs détaillés
+##  Objectifs détaillés
 
 1. **Prédire avec précision les variables climatiques** pour une meilleure planification agricole.
 2. **Exploiter les données historiques** pour capturer les tendances climatiques à long terme.
@@ -47,7 +47,7 @@ Un graphique montrant la **relation linéaire** entre les valeurs réelles et le
 
 ---
 
-## 🔧 Outils et technologies
+##  Outils et technologies
 
 - **Langage de programmation** : Python 3.8+
 - **Framework** : TensorFlow/Keras
@@ -63,7 +63,7 @@ Un graphique montrant la **relation linéaire** entre les valeurs réelles et le
 
 ---
 
-## 📈 Résumé des performances
+##  Résumé des performances
 
 | **Métrique**              | **Valeur** |
 |---------------------------|------------|
@@ -74,3 +74,4 @@ Un graphique montrant la **relation linéaire** entre les valeurs réelles et le
 Ces résultats indiquent une forte capacité du modèle à prédire les tendances climatiques avec précision.
 
 ---
+# HABACK Marthe Désirée Olivia
